@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="screen_type">
+        <item>White</item>
+        <item>Black</item>
+        <item>BW Separated</item>
+        <item>BW Gradient</item>
+        <item>RGB Separated</item>
+        <item>RGB Gradient</item>
+    </string-array>
+</resources>

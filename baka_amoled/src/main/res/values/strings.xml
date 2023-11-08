@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMOLED Dummy Test</string>
+    <string name="app_launcher_name">AMOLED Test</string>
+    <string name="btn_begin">Begin</string>
+    <string name="instruction">Press Volume Up and Down to Adjust Screen Brightness (Brightness only applied on test screen and will be reverted to your system settings when you close the test screen)
+    </string>
+</resources>
